@@ -48,13 +48,10 @@ Photometry of transiting planets with ground-based telescopes
   
 Publications
 ======
-## Journal Papers Accepted
 
-## Journal Papers Submitted
-
-<!--  <ul>{% for post in site.publications %} -->
-<!--    {% include archive-single-cv.html %} -->
-<!--  {% endfor %}</ul> -->
+  <ul>{% for post in site.publications %} 
+    {% include archive-single-cv.html %} 
+  {% endfor %}</ul> 
   
 Talks
 ======
@@ -67,7 +64,7 @@ Teaching
 ======
 ## University of Nevada, Reno
 
- <ul>{% for post in site.teaching %} 
+ <ul>{% for post in site.teaching reversed%} 
    {% include archive-single-cv.html %} 
    {% endfor %}</ul> 
   
