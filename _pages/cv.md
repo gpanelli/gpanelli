@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Pure Mathematics, University of Nevada, Reno, 2020 (expected)
+* B.S. in Physics and Pure Mathematics, University of Nevada, Reno, 2020 (expected)
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
@@ -24,7 +24,7 @@ Honors and Awards
 Research Experience
 ======
 Undergraduate Researcher University of Nevada, Reno
-* Adviser: Andrei Derevianko, Ph.D.
+* Adviser: Andrei Derevianko, Ph.D. <br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
 * Fall 2015: Research Assistant
