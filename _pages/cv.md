@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br />
+My research interests include branches of both physics and philosophy of physics. I am
+currently working on a dark matter detection experiment using precision measurement
+devices (see http://www.dereviankogroup.com/). I am also working on wave function
+ontology and related problems in foundations and interpretations of quantum mechanics.
+<br />
 Education
 ======
 * B.S. in Physics and Pure Mathematics, University of Nevada, Reno, 2020 (expected)
