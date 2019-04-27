@@ -28,15 +28,23 @@ Honors and Awards
 
 Research Experience
 ======
-Undergraduate Researcher University of Nevada, Reno
-------
-* Adviser: *Andrei Derevianko, Ph.D.* <br />
+##Undergraduate Researcher University of Nevada, Reno
+
+* Adviser: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Adviser: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
+Photoionization and dissociative electron attachment experiments.
+
+##Independent Projects
+
+* Adviser: *Vernon Davis, Ph.D.* (Oct. 2018 to Present)<br />
+Philosophy of quantum mechanics, particularly wave function ontology.
+
+* Adviser: *Melodi Rodrigue, Ph.D.* (Nov. 2017 to Dec. 2018)<br />
+Photometry of transiting planets with ground-based telescopes
+
+
   
 Publications
 ======
@@ -58,13 +66,15 @@ Teaching
   
 Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++, C, R, Mathematica, Maple
   
-Service and leadership
+Professional Service
 ======
-* Currently signed in to 43 different slack teams
+##Grant Proposal Reviewer
+* Nevada Undergraduate Research Award (2019)
+
+
+Personal
+======
+Current hobbies include learning jazz trumpet and Spanish. Recently on my free time I have been reading
+Fyodor Dostoevsky novels. 
