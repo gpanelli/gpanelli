@@ -59,35 +59,6 @@ Publications
 Talks
 ======
 
-**Undergraduate Research Spring Symposium 2019** (University of Nevada, Reno) <br />
-Poster Presentation: “*Applying the matched-filter technique to search for dark matter
-with networks of precision measurement devices*,” May 6, 2019
-
-**APS April Meeting 2019** (Denver, Colorado) <br />
-Poster Presentation: “*Applying the matched-filter technique to search for dark matter
-with networks of precision measurement devices*,” April 12, 2019
-
-**College of Science Poster Symposium 2018** (University of Nevada, Reno) <br />
-Poster Presentation: “*Matched Filter Technique in the Detection of Dark Matter with
-the GPS Atomic Clocks*,” November 26, 2018
-
-**Great Basin Observatory Starfest 1 Conference 2018** (University of Nevada, Reno) <br />
-Oral Presentation: “*Detecting Exoplanets with the Great Basin Observatory*,” October
-14, 2018
-
-**Undergraduate Research Summer Symposium 2018** (University of Nevada, Reno) <br />
-Poster Presentation: “*Data Analysis in the Search for Dark Matter with the GPS
-Network*,” August 9, 2018
-
-**McNair Scholars Program Research Symposium 2018** (University of Nevada, Reno) <br />
-Oral Presentation: “*Data Analysis in the Search for Dark Matter with a Network of
-Precision Measurement Devices*,” August 3, 2018
-
-**National McNair Conference at UCLA 2018** (University of California, Los Angeles) <br />
-Oral Presentation: “*Data Analysis in the Search for Dark Matter with a Network of
-Precision Measurement Tools*,” July 26, 2018
-
-
   <ul>{% for post in site.talks %} 
   {% include archive-single-talk-cv.html %} 
   {% endfor %}</ul> 
@@ -104,9 +75,9 @@ Teaching
 * PHYS 151 – General Physics I (Spring 2017)
 * PHYS 181 – Physics for Scientists and Engineers II (Fall 2017 to Spring 2019)
   
-<!--  <ul>{% for post in site.teaching %} -->
-<!--    {% include archive-single-cv.html %} -->
-<!--  {% endfor %}</ul> -->
+ <ul>{% for post in site.teaching %} 
+   {% include archive-single-cv.html %} 
+   {% endfor %}</ul> 
   
 Programming
 ======
