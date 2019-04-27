@@ -48,7 +48,6 @@ Photometry of transiting planets with ground-based telescopes
   
 Publications
 ======
-
 ## Journal Papers Accepted
 
 ## Journal Papers Submitted
@@ -123,47 +122,3 @@ Personal
 ======
 Current hobbies include learning jazz trumpet and Spanish. Recently on my free time I have been reading
 Fyodor Dostoevsky novels.
-
-References
-====== 
-**Dr. Andrei Derevianko**, Hartman Professor of Physics <br />
-Department of Physics <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: andrei@unr.edu <br />
-
-**Dr. Melodi Rodrigue** <br />
-Department of Physics <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: melodir@unr.edu <br />
-
-**Dr. Kristin Lewis** <br />
-Department of Physics <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: kristina2@unr.edu <br />
-
-**Dr. Alexander Kumjian** <br />
-Department of Mathematics and Statistics <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: alex@unr.edu <br />
-
-**Dr. Tynan Kelly** <br />
-Department of Mathematics and Statistics <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: tbkelly@unr.edu <br />
-
-**Dr. Carlos Mariscal** <br />
-Department of Philosphy <br />
-University of Nevada, Reno <br />
-1664 N. Virginia Street <br />
-Reno, NV 89557 <br />
-Email: carlos@unr.edu <br />
