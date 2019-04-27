@@ -11,8 +11,7 @@ redirect_from:
 <br />
 My research interests include branches of both physics and philosophy of physics. I am
 currently working on a dark matter detection experiment using precision measurement
-devices (see the [Derevianko Group](http://www.dereviankogroup.com/)). I am also working on wave function
-ontology and related problems in foundations and interpretations of quantum mechanics.
+devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on wave function ontology and related problems in foundations and interpretations of quantum mechanics. 
 
 Education
 ======
