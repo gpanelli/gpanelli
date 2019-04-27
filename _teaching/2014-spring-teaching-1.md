@@ -1,16 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "PHYS 181 - Physics for Scientists and Engineers II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Nevada, Reno"
+date: 2019-01-21
+location: "Reno, NV"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+About physics 181.
 
-Heading 1
+Recitation Videos
 ======
 
 Heading 2
