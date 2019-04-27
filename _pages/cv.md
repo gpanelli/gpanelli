@@ -28,7 +28,7 @@ Honors and Awards
 
 Research Experience
 ======
-##Undergraduate Researcher University of Nevada, Reno
+## Undergraduate Researcher University of Nevada, Reno
 
 * Adviser: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
@@ -36,7 +36,7 @@ Dark matter detection using the network of atomic clocks aboard GPS satellites.
 * Adviser: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
 Photoionization and dissociative electron attachment experiments.
 
-##Independent Projects
+## Independent Projects
 
 * Adviser: *Vernon Davis, Ph.D.* (Oct. 2018 to Present)<br />
 Philosophy of quantum mechanics, particularly wave function ontology.
@@ -48,21 +48,66 @@ Photometry of transiting planets with ground-based telescopes
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+## Journal Papers Accepted
+
+## Journal Papers Submitted
+
+<!--  <ul>{% for post in site.publications %} -->
+<!--    {% include archive-single-cv.html %} -->
+<!--  {% endfor %}</ul> -->
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+**Undergraduate Research Spring Symposium 2019** (University of Nevada, Reno) <br />
+Poster Presentation: “*Applying the matched-filter technique to search for dark matter
+with networks of precision measurement devices*,” May 6, 2019
+
+**APS April Meeting 2019** (Denver, Colorado) <br />
+Poster Presentation: “*Applying the matched-filter technique to search for dark matter
+with networks of precision measurement devices*,” April 12, 2019
+
+**College of Science Poster Symposium 2018** (University of Nevada, Reno) <br />
+Poster Presentation: “*Matched Filter Technique in the Detection of Dark Matter with
+the GPS Atomic Clocks*,” November 26, 2018
+
+**Great Basin Observatory Starfest 1 Conference 2018** (University of Nevada, Reno) <br />
+Oral Presentation: “*Detecting Exoplanets with the Great Basin Observatory*,” October
+14, 2018
+
+**Undergraduate Research Summer Symposium 2018** (University of Nevada, Reno) <br />
+Poster Presentation: “*Data Analysis in the Search for Dark Matter with the GPS
+Network*,” August 9, 2018
+
+**McNair Scholars Program Research Symposium 2018** (University of Nevada, Reno) <br />
+Oral Presentation: “*Data Analysis in the Search for Dark Matter with a Network of
+Precision Measurement Devices*,” August 3, 2018
+
+**National McNair Conference at UCLA 2018** (University of California, Los Angeles) <br />
+Oral Presentation: “*Data Analysis in the Search for Dark Matter with a Network of
+Precision Measurement Tools*,” July 26, 2018
+
+
+<!--  <ul>{% for post in site.talks %} -->
+<!--    {% include archive-single-talk-cv.html %} -->
+<!--  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## University of Nevada, Reno
+
+**Teaching Assistant**, College of Science 
+* PHYS 151 – General Physics I (Summer 2017, Summer 2018)
+* MATH 295 – Introduction to Proofs (Summer 2018)
+
+**Learning Assistant**, Department of Physics
+* PHYS 151 – General Physics I (Spring 2017)
+* PHYS 181 – Physics for Scientists and Engineers II (Fall 2017 to Spring 2019)
+  
+<!--  <ul>{% for post in site.teaching %} -->
+<!--    {% include archive-single-cv.html %} -->
+<!--  {% endfor %}</ul> -->
   
 Programming
 ======
@@ -70,11 +115,55 @@ Programming
   
 Professional Service
 ======
-##Grant Proposal Reviewer
+## Grant Proposal Reviewer
 * Nevada Undergraduate Research Award (2019)
 
 
 Personal
 ======
 Current hobbies include learning jazz trumpet and Spanish. Recently on my free time I have been reading
-Fyodor Dostoevsky novels. 
+Fyodor Dostoevsky novels.
+
+References
+====== 
+**Dr. Andrei Derevianko**, Hartman Professor of Physics <br />
+Department of Physics <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: andrei@unr.edu <br />
+
+**Dr. Melodi Rodrigue** <br />
+Department of Physics <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: melodir@unr.edu <br />
+
+**Dr. Kristin Lewis** <br />
+Department of Physics <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: kristina2@unr.edu <br />
+
+**Dr. Alexander Kumjian** <br />
+Department of Mathematics and Statistics <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: alex@unr.edu <br />
+
+**Dr. Tynan Kelly** <br />
+Department of Mathematics and Statistics <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: tbkelly@unr.edu <br />
+
+**Dr. Carlos Mariscal** <br />
+Department of Philosphy <br />
+University of Nevada, Reno <br />
+1664 N. Virginia Street <br />
+Reno, NV 89557 <br />
+Email: carlos@unr.edu <br />
