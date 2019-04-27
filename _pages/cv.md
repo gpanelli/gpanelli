@@ -11,9 +11,9 @@ redirect_from:
 <br />
 My research interests include branches of both physics and philosophy of physics. I am
 currently working on a dark matter detection experiment using precision measurement
-devices (see http://www.dereviankogroup.com/). I am also working on wave function
+devices (see the [Derevianko Group](http://www.dereviankogroup.com/)). I am also working on wave function
 ontology and related problems in foundations and interpretations of quantum mechanics.
-<br />
+
 Education
 ======
 * B.S. in Physics and Pure Mathematics, University of Nevada, Reno, 2020 (expected)
@@ -22,14 +22,15 @@ Education
 
 Honors and Awards
 ======
-* Barry Goldwater Scholarship (2019)
+* Barry Goldwater Scholar (2019)
 * Nevada Undergraduate Research Award (2018)
 * Ronald E. McNair Scholar (2017)
 
 Research Experience
 ======
 Undergraduate Researcher University of Nevada, Reno
-* Adviser: Andrei Derevianko, Ph.D. <br />
+------
+* Adviser: *Andrei Derevianko, Ph.D.* <br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
 * Fall 2015: Research Assistant
@@ -37,15 +38,6 @@ Dark matter detection using the network of atomic clocks aboard GPS satellites.
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -63,6 +55,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Programming
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
   
 Service and leadership
 ======
