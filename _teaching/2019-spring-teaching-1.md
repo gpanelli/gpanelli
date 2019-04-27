@@ -8,7 +8,7 @@ date: 2019-01-21
 location: "Reno, NV"
 ---
 
-hermodynamic laws, kinetic theory, electric charge, field, potential, current, dielectrics, circuit elements, magnetic fields and materials, electromagnetic oscillations.
+Thermodynamic laws, kinetic theory, electric charge, field, potential, current, dielectrics, circuit elements, magnetic fields and materials, electromagnetic oscillations.
 
 Recitation Videos
 ======

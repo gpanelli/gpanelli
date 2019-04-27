@@ -88,9 +88,9 @@ Oral Presentation: “*Data Analysis in the Search for Dark Matter with a Networ
 Precision Measurement Tools*,” July 26, 2018
 
 
-<!--  <ul>{% for post in site.talks %} -->
-<!--    {% include archive-single-talk-cv.html %} -->
-<!--  {% endfor %}</ul> -->
+  <ul>{% for post in site.talks %} 
+  {% include archive-single-talk-cv.html %} 
+  {% endfor %}</ul> 
   
 Teaching
 ======
