@@ -67,14 +67,6 @@ Teaching
 ======
 ## University of Nevada, Reno
 
-**Teaching Assistant**, College of Science 
-* PHYS 151 – General Physics I (Summer 2017, Summer 2018)
-* MATH 295 – Introduction to Proofs (Summer 2018)
-
-**Learning Assistant**, Department of Physics
-* PHYS 151 – General Physics I (Spring 2017)
-* PHYS 181 – Physics for Scientists and Engineers II (Fall 2017 to Spring 2019)
-  
  <ul>{% for post in site.teaching %} 
    {% include archive-single-cv.html %} 
    {% endfor %}</ul> 
