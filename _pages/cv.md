@@ -29,18 +29,18 @@ Research Experience
 ======
 ## Undergraduate Researcher University of Nevada, Reno
 
-* Adviser: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
+* Advisor: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
-* Adviser: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
+* Advisor: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
 Photoionization and dissociative electron attachment experiments.
 
 ## Independent Projects
 
-* Adviser: *Vernon Davis, Ph.D.* (Oct. 2018 to Present)<br />
+* Advisor: *Vernon Davis, Ph.D.* (Oct. 2018 to Present)<br />
 Philosophy of quantum mechanics, particularly wave function ontology.
 
-* Adviser: *Melodi Rodrigue, Ph.D.* (Nov. 2017 to Dec. 2018)<br />
+* Advisor: *Melodi Rodrigue, Ph.D.* (Nov. 2017 to Dec. 2018)<br />
 Photometry of transiting planets with ground-based telescopes
 
 
