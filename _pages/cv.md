@@ -73,6 +73,8 @@ Programming
   
 Professional Service
 ======
+## Senior Editor
+* Nevada Undergraduate Review Journal (2019-Present)
 ## Grant Proposal Reviewer
 * Nevada Undergraduate Research Award (2019)
 
