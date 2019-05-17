@@ -15,7 +15,7 @@ devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am 
 
 Education
 ======
-* B.S. in Physics and Pure Mathematics, University of Nevada, Reno, 2020 (expected)
+* B.S. in Physics and Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
@@ -74,12 +74,12 @@ Programming
 Professional Service
 ======
 ## Senior Editor
-* Nevada Undergraduate Review Journal (2019-Present)
+* Nevada State Undergraduate Research Journal (2019-Present)
+
 ## Grant Proposal Reviewer
 * Nevada Undergraduate Research Award (2019)
 
 
 Personal
 ======
-Current hobbies include learning jazz trumpet and Spanish. Recently on my free time I have been reading
-Fyodor Dostoevsky novels.
+Current hobbies include learning jazz trumpet and Spanish.
