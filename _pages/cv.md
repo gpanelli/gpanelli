@@ -41,7 +41,7 @@ Photoionization and dissociative electron attachment experiments.
 Problems in the philosophical foundations of quantum mechanics with emphasis on wave function ontology.
 
 * Advisor: *Melodi Rodrigue, Ph.D.* (Nov. 2017 to Dec. 2018)<br />
-Photometry of transiting planets with ground-based telescopes
+Photometry of transiting planets with ground-based telescopes.
 
 
   
