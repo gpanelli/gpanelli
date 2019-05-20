@@ -1,7 +1,7 @@
 ---
 title: "Approaching wave function realism from a historical perspective: A reply to North"
 collection: publications
-permalink: /publication/2019-06-15-paper-title-number-2
+permalink: /publication/2019-05-20-paper-title-number-2
 excerpt: '(In Progress) This paper is about approaching wave fucntion realism from a historical perspective.'
 date: 2019-05-20
 venue: 'NA'
