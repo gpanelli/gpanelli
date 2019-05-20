@@ -37,8 +37,8 @@ Photoionization and dissociative electron attachment experiments.
 
 ## Independent Projects
 
-* Advisor: *Vernon Davis, Ph.D.* (Oct. 2018 to Present)<br />
-Philosophy of quantum mechanics, particularly wave function ontology.
+* Advisor: *Vernon Davis, Ph.D.* (Oct. 2018 to May 2019)<br />
+Problems in the philosophical foundations of quantum mechanics with emphasis on wave function ontology.
 
 * Advisor: *Melodi Rodrigue, Ph.D.* (Nov. 2017 to Dec. 2018)<br />
 Photometry of transiting planets with ground-based telescopes
