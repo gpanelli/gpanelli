@@ -1,9 +1,10 @@
 ---
 title: "Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory"
 collection: publications
-permalink: /publication/2019-01-15-paper-title-number-1
-excerpt: '(Accepted) This paper is about the detection of Kepler-17b with the Great Basin Observatory.'
-date: 2019-01-15
+permalink: /
+publication/
+excerpt: 'This paper is about the detection of Kepler-17b with the Great Basin Observatory.'
+date: 2019-06-11
 venue: 'Nevada State Undergraduate Research Journal'
 paperurl: 'http://gpanelli.github.io/files/nsurjJune2019.pdf'
 citation: 'Panelli, G. &quot;Exoplanet Detection Via Transit Photometry Using the Great
