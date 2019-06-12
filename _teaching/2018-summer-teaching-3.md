@@ -3,7 +3,7 @@ title: "MATH 295 - Introduction to Proofs"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-summer-teaching-1
-venue: "University of Nevada, Reno"
+venue: "University of Nevada, Reno, Deparment of Methematics and Statistics"
 date: 2018-07-21
 location: "Reno, NV"
 ---
