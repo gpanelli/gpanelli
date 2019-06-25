@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-07-01-Matched-Filter-Technique
 excerpt: '(In Preparation) This paper is about dark matter detection using a network of precision measurement devices.'
 date: 2019-07-01
-venue: ''
+venue: '(In Preparation)'
 paperurl: ''
 citation: 'Panelli, G. Roberts, B.M. & Derevianko, A. (2019). &quot;Applying the matched-filter technique to the search for dark matter with networks of precision measurement devices.&quot; <i>(In Preparation)</i>.'
 ---

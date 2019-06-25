@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-20-Wavefunction-Ontology
 excerpt: '(In Preparation) This paper is about approaching wave fucntion realism from a historical perspective.'
 date: 2019-07-01
-venue: ''
+venue: '(In Preparation)'
 paperurl: 'http://gpanelli.github.io/files/gpanelli_wf_ontology.pdf'
 citation: 'Panelli, G. (2019). &quot;Approaching wave function realism from a historical perspective: A reply to North.&quot; <i>(In Preparation)</i>.'
 ---
