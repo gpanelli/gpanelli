@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 I am an undergraduate physics and mathematics student at the University of Nevada, Reno, 
-currently working with Dr. Andrei Derevianko on a dark matter detection experiment 
-using the atomic clock data from GPS satellites (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). 
-I have also started projects on wave function ontology and related problems in the metaphysics 
-of quantum mechanics. Previously, I have performed exoplanet detection experiments with 
-the [Great Basin Observatory](http://www.greatbasinobservatory.org/).
+currently working with Dr. Andrei Derevianko on a dark matter detection experiment using the atomic clock data from GPS satellites (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). 
+I have also started projects on wave function ontology and related problems in the metaphysics of quantum mechanics. Previously, I have performed exoplanet detection experiments with the [Great Basin Observatory](http://www.greatbasinobservatory.org/). Lastly, I am currently one of the Senior Co-Editors for the Nevada State Undergraduate Research Journal ([NSURJ](http://www.nsurj.com/)).
 
 Recent Posts
 ======
