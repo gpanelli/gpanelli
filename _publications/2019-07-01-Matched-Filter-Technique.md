@@ -1,5 +1,5 @@
 ---
-title: "Applying the matched-filter technique to the search for dark matter with networks of precision measurement devices"
+title: "(In Preparation) Applying the matched-filter technique to the search for dark matter with networks of precision measurement devices"
 collection: publications
 permalink: /publication/2019-07-01-Matched-Filter-Technique
 excerpt: '(In Preparation) This paper is about dark matter detection using a network of precision measurement devices.'

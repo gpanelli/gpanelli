@@ -1,5 +1,5 @@
 ---
-title: "Approaching wave function realism from a historical perspective: A reply to North"
+title: "(In Preparation) Approaching wave function realism from a historical perspective: A reply to North"
 collection: publications
 permalink: /publication/2019-05-20-Wavefunction-Ontology
 excerpt: '(In Preparation) This paper is about approaching wave fucntion realism from a historical perspective.'
