@@ -16,6 +16,7 @@ devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am 
 Education
 ======
 * B.S. in Physics and Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
+* B.S. in Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
@@ -23,7 +24,9 @@ Honors and Awards
 ======
 * Barry Goldwater Scholar (2019)
 * Nevada Undergraduate Research Award (2018)
+* Marye Williams Butler Mathematics Scholarship (2018)
 * Ronald E. McNair Scholar (2017)
+* Marion Young Scholarship (2017)
 
 Research Experience
 ======

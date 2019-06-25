@@ -16,3 +16,4 @@ the [Great Basin Observatory](http://www.greatbasinobservatory.org/).
 
 Recent Posts
 ======
+
