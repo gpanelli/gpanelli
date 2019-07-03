@@ -1,5 +1,5 @@
 ---
-title: "The GPS.DM Collaboration"
+title: 'The GPS.DM Collaboration'
 date: 2019-07-03
 permalink: /posts/2019/07/GPSDM/
 tags:
@@ -16,7 +16,3 @@ You can have many headings
 
 Aren't headings cool?
 ------
-
-<br/><img src='/images/gpsdm.jpg' width='250' height='250'> 
-
-The GPS.DM collaborations is using atomic clocks aboard GPS satellites to search for dark matter in our galaxy. 
