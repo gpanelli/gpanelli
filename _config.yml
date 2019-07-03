@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
+  username               : &@ggpanelli
+instagram:
+  username               : &ggpanelli
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -236,6 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      read_time: true
   # _talks
   - scope:
       path: ""
