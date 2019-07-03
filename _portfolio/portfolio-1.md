@@ -1,7 +1,7 @@
 ---
 title: "GPS.DM Collaboration"
 excerpt: "The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data.
-<br/><img src='/images/gpsdm.jpg'>"
+<br/><img src='/images/gpsdm.jpg' width="193" height="130"> (width:193px, height:130px)"
 collection: portfolio
 ---
 
