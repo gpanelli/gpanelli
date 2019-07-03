@@ -1,7 +1,7 @@
 ---
 title: "The GPS.DM Collaboration"
 date: 2019-07-03
-permalink: /posts/gpsdm
+permalink: /posts/2019/07/GPSDM/
 tags:
   - dark matter
 ---
