@@ -2,7 +2,7 @@
 title: "Grading Positions"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2019-grading
+permalink: /teaching/2016-grading
 venue: "University of Nevada, Reno, Department of Mathematics"
 date: 
 location: "Reno, NV"
