@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2019-grading
 venue: "University of Nevada, Reno, Department of Mathematics"
-date: 2019-01-21
+date: 
 location: "Reno, NV"
 ---
 
