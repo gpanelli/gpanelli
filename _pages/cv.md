@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br />
-I am currently working on a dark matter detection experiment using precision measurement devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on molecular dynamics experiments including dissociative electron attachmetn and photodissociation. 
+I am currently working on a dark matter detection experiment using precision measurement devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on molecular dynamics experiments including dissociative electron attachment and photodissociation. 
 
 Education
 ======
