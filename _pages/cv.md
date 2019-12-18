@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 <br />
-My research interests include branches of both physics and philosophy of physics. I am
-currently working on a dark matter detection experiment using precision measurement
-devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on wave function ontology and related problems in foundations and interpretations of quantum mechanics. 
+I am currently working on a dark matter detection experiment using precision measurement devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on molecular dynamics experiments including dissociative electron attachmetn and photodissociation. 
 
 Education
 ======
-* B.S. in Physics and Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
+* B.S. in Physics, *University of Nevada, Reno*, 2020 (*expected*)
 * B.S. in Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
 <!--* M.S. in Jekyll, GitHub University, 2014-->
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
@@ -23,6 +21,9 @@ Education
 Honors and Awards
 ======
 * Barry Goldwater Scholar (2019)
+* NSF EPSCoR Scholarship (2019)
+* Leifson Physics Scholarship (2019)
+* Mary Talbot Mathematics Scholarship (2019)
 * Nevada Undergraduate Research Award (2018)
 * Marye Williams Butler Mathematics Scholarship (2018)
 * Ronald E. McNair Scholar (2017)
@@ -72,7 +73,7 @@ Teaching
   
 Programming
 ======
-* C++, C, R, Mathematica, Maple
+* C++, C, Python, R, Mathematica, Maple
   
 Professional Service
 ======
@@ -80,7 +81,7 @@ Professional Service
 * Nevada State Undergraduate Research Journal (2019-Present)
 
 ## Grant Proposal Reviewer
-* Nevada Undergraduate Research Award (2019)
+* Nevada Undergraduate Research Award (2019-Present)
 
 
 Personal
