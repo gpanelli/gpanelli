@@ -14,7 +14,6 @@ tags:
 The Barry Goldwater Scholarship is a federal scholarship awarded to students in STEM fields that plan to pursue a career as a researcher. This past year, over 5000 students applied and I was one of 496 to be selected, and one of only 62 mathematics majors to receive the award. Check out the article <a href="https://www.unr.edu/nevada-today/news/2019/faces-of-the-pack-guglielmo-panelli">here</a>.
 
 
-Goldwater Scholarship
-======
+<h5>Goldwater Scholarship</h5>
 Considered the most prestigious undergraduate scholarship in the natural sciences, mathematics and engineering in America. If you plan to pursue a career of research, whether in academia or industry, apply! 
 </div>
