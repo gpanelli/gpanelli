@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 <br />
-I am currently working on a dark matter detection experiment using precision measurement devices (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). I am also working on molecular dynamics experiments including dissociative electron attachment and photodissociation. 
-
 Education
 ======
 * B.S. in Physics, *University of Nevada, Reno*, 2020 (*expected*)
@@ -29,7 +27,7 @@ Honors and Awards
 
 Research Experience
 ======
-## Undergraduate Researcher University of Nevada, Reno
+## Undergraduate Researcher - *University of Nevada, Reno*
 
 * Advisor: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
@@ -37,7 +35,7 @@ Dark matter detection using the network of atomic clocks aboard GPS satellites.
 * Advisor: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
 Photoionization and dissociative electron attachment experiments.
 
-## Independent Projects
+## Independent Projects - *University of Nevada, Reno*
 
 * Advisor: *Vernon Davis, Ph.D.* (Oct. 2018 to May 2019)<br />
 Problems in the philosophical foundations of quantum mechanics with emphasis on wave function ontology.
