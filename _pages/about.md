@@ -14,17 +14,18 @@ I am an undergraduate physics and mathematics student at the University of Nevad
 
 Recent Posts
 ======
-<h2>The GPS.DM Collaboration</h2>
-<div align="justify">
-<br/><img src='/images/gpsdm.jpg' width='140' height='140' align='left' hspace="15"> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data. The techniques developed by this group have wide applicability to other networks of precision measurement devises searching for exotic physics. <a href="https://gpanelli.github.io/posts/2019/07/GPSDM/">Raed More</a>
-</div>
-<br>
-<br>
-
 <h2>The Barry Goldwater Scholarship</h2>
 <div align="justify">
 <br/><img src='/images/facesofthepack.jpg' width='140' height='140' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor. If you're applying, good luck! <a href="https://gpanelli.github.io/posts/2019/06/facesofthepack/">Read More</a>
 </div>
+<br>
+<br>
+
+<h2>The GPS.DM Collaboration</h2>
+<div align="justify">
+<br/><img src='/images/gpsdm.jpg' width='140' height='140' align='left' hspace="15"> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data. The techniques developed by this group have wide applicability to other networks of precision measurement devises searching for exotic physics. <a href="https://gpanelli.github.io/posts/2019/07/GPSDM/">Raed More</a>
+</div>
+
 
 
 <!-- {% include base_path %}
