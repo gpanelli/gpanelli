@@ -37,7 +37,7 @@ Conference Proceedings and Presentations
 <i>Momentum imaging of dissociative electron attachment to formamide</i>, Reno, NV
 <br>
 <br>
-<b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019
+<b>Undergraduate Research Summer Symposium 2019  - Univ. of Nevada, Reno</b> Aug. 8, 2019
 <br>
 <i>Dissociative Electron Attachment to Formamide</i>, Reno, NV
 <br>
@@ -47,7 +47,7 @@ Conference Proceedings and Presentations
 <i>The Ontological Status of the Wavefunction</i>, Reno, NV
 <br>
 <br>
-<b>Undergraduate Research Spring Symposium 2019</b> May 6, 2019
+<b>Undergraduate Research Spring Symposium 2019 - Univ. of Nevada, Reno</b> May 6, 2019
 <br>
 <i>Applying the matched-filter technique to search for dark matter with networks of precision measurement devices</i>, Reno, NV
 <br>
@@ -67,7 +67,7 @@ Matter Detection</i>, Reno, NV
 ---
 <br>
 <br>
-<b>College of Science Poster Symposium 2018 </b>Nov. 26, 2018
+<b>College of Science Poster Symposium 2018 - Univ. of Nevada, Reno </b>Nov. 26, 2018
 <br>
 <i>Matched-Filter Technique in the Detection of Dark Matter with the GPS Atomic Clocks</i>, Reno, NV
 <br>
@@ -77,12 +77,12 @@ Matter Detection</i>, Reno, NV
 <i>Detecting Exoplanets with the Great Basin Observatory</i>, Reno, NV
 <br>
 <br>
-<b>Undergraduate Research Summer Symposium 2018</b> Aug. 9, 2018
+<b>Undergraduate Research Summer Symposium 2018 - Univ. of Nevada, Reno</b> Aug. 9, 2018
 <br>
 <i>Data Analysis in the Search for Dark Matter with the GPS Network</i>, Reno, NV
 <br>
 <br>
-<b>McNair Scholars Program Research Symposium 2018</b> Aug. 3, 2018
+<b>McNair Scholars Program Research Symposium 2018 - Univ. of Nevada, Reno</b> Aug. 3, 2018
 <br>
 <i>Data Analysis in the Search for Dark Matter with a Network
 of Precision Measurement Devices</i>, Reno, NV
