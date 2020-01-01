@@ -17,7 +17,6 @@ My current research is in the field of atomic physics. My current work includes 
 Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 <hr>
 </div>
-<br>
 <div align="justify">
 <b>Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory</b>
 <br>
