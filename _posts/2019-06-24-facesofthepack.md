@@ -16,6 +16,6 @@ The Barry Goldwater Scholarship is a federal scholarship awarded to students in 
 <br>
 <br>
 
-<h2>Goldwater Scholarship</h2>
+<h2>Goldwater Scholarship Application Tips</h2>
 Considered the most prestigious undergraduate scholarship in the natural sciences, mathematics and engineering in America. If you plan to pursue a career of research, whether in academia or industry, apply! 
 </div>
