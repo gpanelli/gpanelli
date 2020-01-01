@@ -15,8 +15,16 @@ My current research is in the field of atomic physics. My current work includes 
 <br>
 Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 </div>
+<br>
+<div align="justify">
+<b>Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory</b>
+<br>
+<br/><img src='/images/comparison-1.png' width='250' height='314' align='right' hspace='15'> Exoplanet detection via transit photometry has blossomed into one of the most fruitful fields in all of physics in the last decade with NASA missions like Kepler. We conducted transit photometry on the star Kepler-17, known host to exoplanet Kepler-17b, on June 26, 2018 using the Great Basin Observatory in an effort to perform the one of the first exoplanet detections in the telescope’s 2-year history. We also... <a href="https://gpanelli.github.io/publication/2019-06-11-Exoplanet-Detection">Read More</a>
+<br>
+June 11, 2019 - <i>Nevada State Undergraduate Research Journal</i>
+</div>
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -25,7 +33,7 @@ Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
   <br>
-{% endfor %}
+{% endfor %} -->
 
 
 Conference Proceedings and Presentations
