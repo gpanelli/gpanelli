@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+<!-- permalink: /publications/ -->
+permalink: /research/
 author_profile: true
 ---
 My current research includes XXX. 
