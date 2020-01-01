@@ -2,7 +2,7 @@
 title: 'NevadaToday Article'
 date: 2019-06-24
 permalink: /posts/2019/06/facesofthepack/
-excerpt: "<br/><img src='/images/facesofthepack.jpg' width='125' height='125'> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship."
+excerpt: "<br/><img src='/images/facesofthepack.jpg' width='125' height='125' align='right'> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship."
 tags:
   - Goldwater Scholarship
 ---
