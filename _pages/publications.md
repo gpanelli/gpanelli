@@ -25,27 +25,55 @@ Conference Proceedings and Presentations
 ----
 Oral Presentations
 ---
-<ul>
-<li> <b>APS Far West Section Conference 2019</b> </li>
-<li> Nov. 1, 2019 </li>
-</ul>
+<b>APS Far West Section Conference 2019</b> Nov. 1, 2019
 <br>
 <i>Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors</i>>, Stanford, CA
 <br>
 <b>Physics Department Talk</b> Oct. 14, 2019
 <br>
 <i>Momentum imaging of dissociative electron attachment to formamide</i>, Reno, NV
-<!-- Physics Department Talk July 22, 2019
-Oral Presentation: “The Ontological Status of the Wavefunction,” Reno, NV
-Physics Department Talk April 1, 2019
-Oral Presentation: “The Ubiquitous Matched-Filter and its Application to Dark
-Matter Detection,” Reno, NV
-Great Basin Observatory Starfest 1 Conference 2018 Oct. 14, 2018
-Invited Talk: “Detecting Exoplanets with the Great Basin Observatory,” Reno, NV
-McNair Scholars Program Research Symposium 2018 Aug. 3, 2018
-Oral Presentation: “Data Analysis in the Search for Dark Matter with a Network
-of Precision Measurement Devices,” Reno, NV
-Page 2
-National McNair Conference at UCLA 2018 July 26, 2018
-Oral Presentation: “Data Analysis in the Search for Dark Matter with a Network
-of Precision Measurement Tools,” Los Angeles, CA -->
+<br>
+<b>Physics Department Talk</b> July 22, 2019
+<br>
+<i>The Ontological Status of the Wavefunction</i>, Reno, NV
+<br>
+<b>Physics Department Talk</b> April 1, 2019
+<br>
+<i>The Ubiquitous Matched-Filter and its Application to Dark
+Matter Detection</i>, Reno, NV
+<br>
+<b>Great Basin Observatory Starfest 1 Conference 2018</b> Oct. 14, 2018
+<br>
+<i>Detecting Exoplanets with the Great Basin Observatory</i>, Reno, NV
+<br>
+<b>McNair Scholars Program Research Symposium 2018</b> Aug. 3, 2018
+<br>
+<i>Data Analysis in the Search for Dark Matter with a Network
+of Precision Measurement Devices</i>, Reno, NV
+<br>
+<b>National McNair Conference at UCLA 2018</b> July 26, 2018
+<br>
+<i>Data Analysis in the Search for Dark Matter with a Network
+of Precision Measurement Tools</i>, Los Angeles, CA
+<br>
+Poster Presentations
+---
+<b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019
+<br>
+<i>Dissociative Electron Attachment to Formamide</i>, Reno, NV
+<br>
+<b>Undergraduate Research Spring Symposium 2019</b> May 6, 2019
+<br>
+<i>Applying the matched-filter technique to search for dark matter with networks of precision measurement devices</i>, Reno, NV
+<br>
+<b>APS April Meeting 2019</b> April 12, 2019
+<br>
+<i>Applying the matched-filter technique to search for dark matter with networks of precision measurement devices</i>, Denver, CO
+<br>
+<b>College of Science Poster Symposium 2018 </b>Nov. 26, 2018
+<br>
+<i>Matched-Filter Technique in the Detection of Dark Matter with the GPS Atomic Clocks</i>, Reno, NV
+<br>
+<b>Undergraduate Research Summer Symposium 2018</b> Aug. 9, 2018
+<br>
+<i>Data Analysis in the Search for Dark Matter with the GPS Network</i>, Reno, NV
