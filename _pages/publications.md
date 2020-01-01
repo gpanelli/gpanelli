@@ -11,7 +11,7 @@ My current research is in the field of atomic physics. My current work includes 
 <div align="justify">
 <b>Applying the matched-filter technique to the search for dark matter with networks of quantum sensors (submitted)</b>
 <br>
-<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right' hspace='15'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with such networks using the matched-filter technique. Such "clumpy" dark matter objects... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
+<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right' hspace='15'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
 <br>
 <br>
 Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
@@ -20,7 +20,7 @@ Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 <div align="justify">
 <b>Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory</b>
 <br>
-<br/><img src='/images/comparison-1.png' width='250' height='314' align='right' hspace='15'> Exoplanet detection via transit photometry has blossomed into one of the most fruitful fields in all of physics in the last decade with NASA missions like Kepler. We conducted transit photometry on the star Kepler-17, known host to exoplanet Kepler-17b, on June 26, 2018 using the Great Basin Observatory in an effort to perform the one of the first exoplanet detections in the telescope’s 2-year history. We also gauge the lower limits of host star brightness for which the 0.7-meter telescope retains sensitivity and establish a transit depth threshold for detection confidence. We present evidence for detection of Kepler-17b, estimates of its radius, semimajor axis and orbital period, as well as a transit depth minimum for GBO detection... <a href="https://gpanelli.github.io/publication/2019-06-11-Exoplanet-Detection">Read More</a>
+<br/><img src='/images/comparison-1.png' width='250' height='314' align='right' hspace='15'> Exoplanet detection via transit photometry has blossomed into one of the most fruitful fields in all of physics in the last decade with NASA missions like Kepler. We conducted transit photometry on the star Kepler-17, known host to exoplanet Kepler-17b, on June 26, 2018 using the Great Basin Observatory in an effort to perform the one of the first exoplanet detections in the telescope’s 2-year history. We also gauge the lower limits of host star brightness for which the 0.7-meter telescope retains sensitivity and establish a transit depth threshold for detection confidence. We present evidence... <a href="https://gpanelli.github.io/publication/2019-06-11-Exoplanet-Detection">Read More</a>
 <br>
 <br>
 June 11, 2019 - <i>Nevada State Undergraduate Research Journal</i>
