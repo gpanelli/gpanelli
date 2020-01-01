@@ -84,10 +84,20 @@ Selected Presentations
 Teaching
 ======
 <u><b> University of Nevada, Reno</b></u>
-
- <ul>{% for post in site.teaching reversed%} 
-   {% include archive-single-cv.html %} 
-   {% endfor %}</ul> 
+<ul>
+	<li>
+	PHYS 181 - Physics for Scientists and Engineers II
+	</li>
+	<li>
+	MATH 295 - Introduction to Proofs
+	</li>
+	<li>
+	PHYS 151 - General Physics I
+	</li>
+	<li>
+	Various grader appointments
+	</li>
+</ul>
   
 Programming
 ======
