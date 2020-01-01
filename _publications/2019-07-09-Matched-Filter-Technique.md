@@ -1,12 +1,12 @@
 ---
 title: "(Submitted) Applying the matched-filter technique to the search for dark matter with networks of quantum sensors"
 collection: publications
-permalink: /publications/2019-07-09-Matched-Filter-Technique
+permalink: /publication/2019-07-09-Matched-Filter-Technique
 excerpt: "<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right'> (Submitted) This paper outlines the development of a frequentist event detection technique for searches for dark matter with netowrks of precision measurement devices with particular focus of the network of Global Positioning System atomic clocks."
 date: 2019-07-09
 venue: '(Submitted)'
 paperurl: ''
-citation: 'G. Panelli, B.M. Roberts, & A. Derevianko (2019). &quot;Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors.&quot; <a href="https://arxiv.org/abs/1908.03320">arXiv:1908.03320</a>'
+citation: 'Panelli, G. Roberts, B.M. & Derevianko, A. (2019). &quot;Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors.&quot; <a href="https://arxiv.org/abs/1908.03320">arXiv:1908.03320</a>'
 ---
 <div align="justify">
 <p><img src="/images/exclusionT-new2.png" width="400" height="240" align="right"/>
