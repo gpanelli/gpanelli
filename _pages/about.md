@@ -16,7 +16,7 @@ Recent Posts
 ======
 <h2>The Barry Goldwater Scholarship</h2>
 <div align="justify">
-<br/><img src='/images/facesofthepack.jpg' width='140' height='140' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor. If you're applying, good luck! <a href="https://gpanelli.github.io/posts/2019/06/facesofthepack/">Read More</a>
+<br/><img src='/images/facesofthepack.jpg' width='140' height='140' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor. If you're applying, good luck! <a href="https://gpanelli.github.io/posts/2019/08/facesofthepack/">Read More</a>
 </div>
 <br>
 <br>
