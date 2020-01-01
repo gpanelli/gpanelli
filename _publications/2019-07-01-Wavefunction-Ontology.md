@@ -3,7 +3,7 @@ title: "(In Preparation) Approaching wave function realism from a historical per
 collection: publications
 permalink: /publication/2019-05-20-Wavefunction-Ontology
 excerpt: '(In Preparation) This paper is about approaching wave function realism from a historical perspective.'
-date: 2019-07-01
+date: 2019-05-20
 venue: '(In Preparation)'
 paperurl: ''
 citation: 'Panelli, G. (2019). &quot;Approaching wave function realism from a historical perspective: A reply to North.&quot; <i>(In Preparation)</i>.'
