@@ -14,4 +14,5 @@ My current research includes XXX.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+  <br>
 {% endfor %}

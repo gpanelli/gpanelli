@@ -2,7 +2,7 @@
 title: "Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory"
 collection: publications
 permalink: /publication/2019-06-11-Exoplanet-Detection
-excerpt: "<br/><img src='/images/comparison-1.png' width='375' height='471' align='left'> This paper is about the detection of Kepler-17b with the Great Basin Observatory."
+excerpt: "<br/><img src='/images/comparison-1.png' width='250' height='314' align='left'> This paper is about the detection of Kepler-17b with the Great Basin Observatory (GBO). We performed one of the first exoplanet detections in the GBO's history and established a minimum transit depth for confidence in detection with the GBO."
 date: 2019-06-11
 venue: 'Nevada State Undergraduate Research Journal'
 paperurl: ''
