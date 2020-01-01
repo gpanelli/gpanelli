@@ -1,6 +1,6 @@
 ---
 title: "GPS.DM Collaboration"
-excerpt: "<br/><img src='/images/gpsdm.jpg' width='400' height='400'> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data."
+excerpt: "<br/><img src='/images/gpsdm.jpg' width='400' height='400'> <br> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data."
 collection: portfolio
 ---
 

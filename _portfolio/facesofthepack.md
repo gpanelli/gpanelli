@@ -1,6 +1,6 @@
 ---
 title: "NevadaToday article"
-excerpt: "<br/><img src='/images/facesofthepack.jpg' width='250' height='250'> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship."
+excerpt: "<br/><img src='/images/facesofthepack.jpg' width='250' height='250'> <br> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship."
 collection: portfolio
 ---
 

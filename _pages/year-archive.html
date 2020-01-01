@@ -7,6 +7,15 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
+<!-- <h2> <a href="https://gpanelli.github.io/posts/2019/07/GPSDM/">The GPS.DM Collaboration </a></h2>
+<br/><img src='/images/gpsdm.jpg' width='140' height='140' align='left' hspace="15"> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data. The techniques developed by this group have wide applicability to other networks of precision measurement devises searching for exotic physics.
+<br>
+<br>
+
+<h2> <a href="https://gpanelli.github.io/posts/2019/06/facesofthepack/">The Barry Goldwater Scholarship </a></h2>
+<br/><img src='/images/facesofthepack.jpg' width='125' height='125' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor. -->
+
+
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
@@ -14,6 +23,9 @@ redirect_from:
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
+    <br>
+	<br>
+	<br>
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
