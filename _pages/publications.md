@@ -23,8 +23,9 @@ Publications
 
 Conference Proceedings and Presentations
 ----
-Oral Presentations
+<u>Oral Presentations</u>
 ---
+<br>
 <br>
 <b>APS Far West Section Conference 2019</b> Nov. 1, 2019
 <br>
@@ -63,8 +64,10 @@ of Precision Measurement Devices</i>, Reno, NV
 <i>Data Analysis in the Search for Dark Matter with a Network
 of Precision Measurement Tools</i>, Los Angeles, CA
 <br>
-Poster Presentations
+<br>
+<u>Poster Presentations</u>
 ---
+<br>
 <br>
 <b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019
 <br>
