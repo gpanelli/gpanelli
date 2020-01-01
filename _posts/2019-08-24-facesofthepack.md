@@ -1,7 +1,7 @@
 ---
 title: 'Goldwater Scholarship'
-date: 2019-06-24
-permalink: /posts/2019/06/facesofthepack/
+date: 2019-08-24
+permalink: /posts/2019/08/facesofthepack/
 excerpt: "<br/><img src='/images/facesofthepack.jpg' width='125' height='125' align='left' hspace='15'> <br> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor."
 tags:
   - Goldwater Scholarship
