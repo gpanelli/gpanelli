@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br />
-Education
+<h1>Education</h1>
 ======
 * B.S. in Physics, *University of Nevada, Reno*, 2020 (*expected*)
 * B.S. in Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
