@@ -32,17 +32,17 @@ Conference Proceedings and Presentations
 <i>Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors</i>, Stanford, CA
 <br>
 <br>
-<b>Physics Department Talk</b> Oct. 14, 2019
+<b>Physics Department Talk - Univ. of Nevada, Reno</b> Oct. 14, 2019
 <br>
 <i>Momentum imaging of dissociative electron attachment to formamide</i>, Reno, NV
 <br>
 <br>
-<b>Physics Department Talk</b> July 22, 2019
+<b>Physics Department Talk - Univ. of Nevada, Reno</b> July 22, 2019
 <br>
 <i>The Ontological Status of the Wavefunction</i>, Reno, NV
 <br>
 <br>
-<b>Physics Department Talk</b> April 1, 2019
+<b>Physics Department Talk - Univ. of Nevada, Reno</b> April 1, 2019
 <br>
 <i>The Ubiquitous Matched-Filter and its Application to Dark
 Matter Detection</i>, Reno, NV
