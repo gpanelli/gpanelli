@@ -15,8 +15,6 @@ Education
 ======
 * B.S. in Physics, *University of Nevada, Reno*, 2020 (*expected*)
 * B.S. in Pure Mathematics, *University of Nevada, Reno*, 2020 (*expected*)
-<!--* M.S. in Jekyll, GitHub University, 2014-->
-<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
 Honors and Awards
 ======

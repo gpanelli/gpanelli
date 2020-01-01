@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class=text-justify>
+<div style="text-align: right">
 I am an undergraduate physics and mathematics student at the University of Nevada, Reno, currently working with Dr. Andrei Derevianko on a dark matter detection experiment using the atomic clock data from GPS satellites (see the [GPS.DM Collaboration](http://www.dereviankogroup.com/)). 
 I also work with Dr. Joshua Williams on dissociative electron attachment and photodissociation molecular dynamics experiments. Previously, I have performed exoplanet detection experiments with the [Great Basin Observatory](http://www.greatbasinobservatory.org/). Lastly, I am currently one of the Senior Co-Editors for the Nevada State Undergraduate Research Journal ([NSURJ](http://www.nsurj.com/)).
 </div>
