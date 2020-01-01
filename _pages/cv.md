@@ -58,22 +58,22 @@ Selected Presentations
 	<b>APS Far West Section Conference 2019</b> Nov. 1, 2019 
 	<i>Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors</i>, Stanford, CA
 	</li>
-<br>
-<br>
-<b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019 
-<i>Dissociative Electron Attachment to Formamide</i>, Reno, NV
-<br>
-<br>
-<b>Physics Department Talk</b> July 22, 2019 
-<i>The Ontological Status of the Wavefunction</i>, Reno, NV
-<br>
-<br>
-<b>APS April Meeting 2019</b> April 12, 2019 
-<i>Applying the matched-filter technique to search for dark matter with networks of precision measurement devices</i>, Denver, CO
-<br>
-<br>
-<b>Great Basin Observatory Starfest 1 Conference 2018</b> Oct. 14, 2018 
-<i>Detecting Exoplanets with the Great Basin Observatory</i>, Reno, NV
+	<li>
+	<b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019 
+	<i>Dissociative Electron Attachment to Formamide</i>, Reno, NV
+	</li>
+	<li>
+	<b>Physics Department Talk</b> July 22, 2019 
+	<i>The Ontological Status of the Wavefunction</i>, Reno, NV
+	</li>
+	<li>
+	<b>APS April Meeting 2019</b> April 12, 2019 
+	<i>Applying the matched-filter technique to search for dark matter with networks of precision measurement devices</i>, Denver, CO
+	</li>
+	<li>
+	<b>Great Basin Observatory Starfest 1 Conference 2018</b> Oct. 14, 2018 
+	<i>Detecting Exoplanets with the Great Basin Observatory</i>, Reno, NV
+	</li>
 </ul>
   
 Teaching
