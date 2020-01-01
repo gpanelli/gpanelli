@@ -15,6 +15,7 @@ My current research is in the field of atomic physics. My current work includes 
 <br>
 <br>
 Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
+<hr>
 </div>
 <br>
 <div align="justify">
@@ -24,6 +25,7 @@ Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 <br>
 <br>
 June 11, 2019 - <i>Nevada State Undergraduate Research Journal</i>
+<hr>
 </div>
 
 <!-- {% if author.googlescholar %}
