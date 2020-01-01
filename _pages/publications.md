@@ -5,13 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 <p align="justify">
-My current research is in the field of atomic physics. My current work includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada,Reno) and direct dark matter detection experiments with networks of precision measurement devices. My previous work includes exoplanet detection with ground-based telescopes and philosphy of quantum mechanics.
+My current research is in the field of atomic physics. My current work includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada, Reno) and direct dark matter detection experiments with networks of precision measurement devices - particularly atomic clocks (with Dr. Andrei Derevianko). My previous work includes exoplanet detection with ground-based telescopes and philosphy of quantum mechanics.
 </p>
 <h2>Publications</h2>
 <div align="justify">
 <b>Applying the matched-filter technique to the search for dark matter with networks of quantum sensors (submitted)</b>
 <br>
-<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right' hspace='15'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with such networks using the matched-filter technique. Such "clumpy" dark matter objects would register... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
+<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right' hspace='15'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with such networks using the matched-filter technique. Such "clumpy" dark matter objects... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
 <br>
 Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 </div>
