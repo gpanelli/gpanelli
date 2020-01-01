@@ -32,7 +32,7 @@ Research Experience
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
 * Advisor: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
-Photoionization and dissociative electron attachment experiments.
+Photodissociation and dissociative electron attachment experiments.
 
 ## Independent Projects - *University of Nevada, Reno*
 
