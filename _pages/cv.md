@@ -54,8 +54,10 @@ Publications
 Selected Presentations
 ======
 <ul>
-<b>APS Far West Section Conference 2019</b> Nov. 1, 2019 
-<i>Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors</i>, Stanford, CA
+	<li>
+	<b>APS Far West Section Conference 2019</b> Nov. 1, 2019 
+	<i>Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors</i>, Stanford, CA
+	</li>
 <br>
 <br>
 <b>Undergraduate Research Summer Symposium 2019</b> Aug. 8, 2019 
@@ -73,9 +75,6 @@ Selected Presentations
 <b>Great Basin Observatory Starfest 1 Conference 2018</b> Oct. 14, 2018 
 <i>Detecting Exoplanets with the Great Basin Observatory</i>, Reno, NV
 </ul>
-  <!-- <ul>{% for post in site.talks reversed %} 
-  {% include archive-single-talk-cv.html %} 
-  {% endfor %}</ul>  -->
   
 Teaching
 ======
