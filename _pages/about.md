@@ -14,13 +14,13 @@ I am an undergraduate physics and mathematics student at the University of Nevad
 
 Recent Posts
 ======
-<h2> <a href="https://gpanelli.github.io/posts/2019/07/GPSDM/">The GPS.DM Collaboration </a></h2>
-<br/><img src='/images/gpsdm.jpg' width='140' height='140' align='left' hspace="15"> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data. The techniques developed by this group have wide applicability to other networks of precision measurement devises searching for exotic physics.
+<h2>The GPS.DM Collaboration</h2>
+<br/><img src='/images/gpsdm.jpg' width='140' height='140' align='left' hspace="15"> The GPS.DM Collaboration is searching for dark matter using GPS atomic clock data. The techniques developed by this group have wide applicability to other networks of precision measurement devises searching for exotic physics. <a href="https://gpanelli.github.io/posts/2019/07/GPSDM/">Raed More</a>
 <br>
 <br>
 
-<h2> <a href="https://gpanelli.github.io/posts/2019/06/facesofthepack/">The Barry Goldwater Scholarship </a></h2>
-<br/><img src='/images/facesofthepack.jpg' width='125' height='125' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor.
+<h2>The Barry Goldwater Scholarship</h2>
+<br/><img src='/images/facesofthepack.jpg' width='140' height='140' align='left' hspace="15"> I was recently featured in NevadaToday for receiving the Barry Goldwater Scholarship. Check out the article and my tips for applying for this prestigious honor. <a href="https://gpanelli.github.io/posts/2019/06/facesofthepack/">Read More</a>
 
 
 <!-- {% include base_path %}

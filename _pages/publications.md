@@ -11,9 +11,9 @@ My current research is in the field of atomic physics. My current work includes 
 <div align="justify">
 <b>Applying the matched-filter technique to the search for dark matter with networks of quantum sensors (submitted)</b>
 <br>
-<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with such networks using the matched-filter technique. Such "clumpy" dark matter objects... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
+<br/><img src='/images/exclusionT-new2.png' width='250' height='150' align='right' hspace='15'> There are several networks of precision sensors in existence, including networks of atomic clocks, magnetometers, and gravitational wave detectors. These networks can be re-purposed for searches of exotic physics, such as direct dark matter searches. Here we explore a detection strategy for macroscopic dark matter objects with such networks using the matched-filter technique. Such "clumpy" dark matter objects would register... <a href="https://gpanelli.github.io/publication/2019-07-09-Matched-Filter-Technique">Read More</a>
 <br>
-Nov. 22, 2019 - European Journal of Physics - Quantum Technology
+Nov. 22, 2019 - <i>European Journal of Physics - Quantum Technology</i>
 </div>
 
 {% if author.googlescholar %}
