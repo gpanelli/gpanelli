@@ -1,12 +1,12 @@
 ---
 title: "Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory"
 collection: publications
-permalink: /publication/2019-06-11-Exoplanet-Detection
-excerpt: "<br/><img src='/images/comparison-1.png' width='250' height='314' align='left'> This paper is about the detection of Kepler-17b with the Great Basin Observatory (GBO). We performed one of the first exoplanet detections in the GBO's history and established a minimum transit depth for confidence in detection with the GBO."
+permalink: /research/2019-06-11-Exoplanet-Detection
+excerpt: "<br/><img src='/images/comparison-1.png' width='250' height='314' align='right'> This paper is about the detection of Kepler-17b with the Great Basin Observatory (GBO). We performed one of the first exoplanet detections in the GBO's history and established a minimum transit depth for confidence in detection with the GBO."
 date: 2019-06-11
 venue: 'Nevada State Undergraduate Research Journal'
 paperurl: ''
-citation: 'Panelli, G. &quot;Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory.&quot; <i>Nevada State Undergraduate Research Journal</i>.V5:I1 Spring-2019. (2019).<a href="http://dx.doi.org/10.15629/6.7.8.7.5_5-1_S-2019_4">doi:10.15629/6.7.8.7.5_5-1_S-2019_4.</a>. '
+citation: 'G. Panelli &quot;Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory.&quot; <i>Nevada State Undergraduate Research Journal</i>.V5:I1 Spring-2019. (2019).<a href="http://dx.doi.org/10.15629/6.7.8.7.5_5-1_S-2019_4">doi:10.15629/6.7.8.7.5_5-1_S-2019_4.</a>. '
 
 ---
 <div align="justify">
