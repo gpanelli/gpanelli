@@ -83,7 +83,7 @@ Selected Presentations
   
 Teaching
 ======
-## University of Nevada, Reno
+<u><b> University of Nevada, Reno</b></u>
 
  <ul>{% for post in site.teaching reversed%} 
    {% include archive-single-cv.html %} 
@@ -91,15 +91,13 @@ Teaching
   
 Programming
 ======
-* C++, C, Python, R, Mathematica, Maple
+* C++, C, Python, R, Mathematica, Maple, HTML
   
 Professional Service
 ======
-## Senior Editor
-* Nevada State Undergraduate Research Journal (2019-Present)
+* Senior Editor: Nevada State Undergraduate Research Journal (2019-Present)
 
-## Grant Proposal Reviewer
-* Nevada Undergraduate Research Award (2019-Present)
+* Grant Proposal Reviewer: Nevada Undergraduate Research Award (2019-Present)
 
 
 Personal
