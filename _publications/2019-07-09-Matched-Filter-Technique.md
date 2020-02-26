@@ -6,7 +6,7 @@ excerpt: "<br/><img src='/images/exclusionT-new2.png' width='250' height='150' a
 date: 2019-07-09
 venue: 'EPJ Quantum Technology'
 paperurl: ''
-citation: 'G. Panelli, B.M. Roberts, & A. Derevianko. Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors. <i>EPJ Quantum Technol.</i> <b>7</b>, 5 (2020). <a href="https://doi.org/10.1140/epjqt/s40507-020-00081-9"> https://doi.org/10.1140/epjqt/s40507-020-00081-9</a>'
+citation: 'G. Panelli, B.M. Roberts, & A. Derevianko. Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors. <i>EPJ Quantum Technol.</i> <b>7</b>, 5 (2020).<a href="https://doi.org/10.1140/epjqt/s40507-020-00081-9"> https://doi.org/10.1140/epjqt/s40507-020-00081-9</a>'
 ---
 <div align="justify">
 <p><img src="/images/exclusions-new-1.png" width="400" height="500" align="right" hspace="20"/>
