@@ -6,7 +6,7 @@ excerpt: "<br/><img src='/images/comparison-1.png' width='250' height='314' alig
 date: 2019-06-11
 venue: 'Nevada State Undergraduate Research Journal'
 paperurl: ''
-citation: 'G. Panelli &quot;Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory.&quot; <i>Nevada State Undergraduate Research Journal</i>.V5:I1 Spring-2019. (2019). <a href="http://dx.doi.org/10.15629/6.7.8.7.5_5-1_S-2019_4">doi:10.15629/6.7.8.7.5_5-1_S-2019_4.</a>. '
+citation: 'G. Panelli. Exoplanet Detection Via Transit Photometry Using the Great Basin Observatory. <i>Nevada State Undergraduate Research Journal</i>.V5:I1 Spring-2019. (2019). <a href="http://dx.doi.org/10.15629/6.7.8.7.5_5-1_S-2019_4">doi:10.15629/6.7.8.7.5_5-1_S-2019_4.</a>. '
 
 ---
 <div align="justify">
