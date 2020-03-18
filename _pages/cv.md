@@ -15,6 +15,7 @@ redirect_from:
 
 Honors and Awards
 ======
+* Westfall Scholar (2020)
 * Barry Goldwater Scholar (2019)
 * NSF EPSCoR Scholarship (2019)
 * Leifson Physics Scholarship (2019)
