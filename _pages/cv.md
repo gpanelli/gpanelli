@@ -15,7 +15,8 @@ redirect_from:
 
 Honors and Awards
 ======
-* Nevada College of Science Senior Scholar Award (2020)
+* NSF Graduate Research Fellowship (2020-2025)
+* UNR College of Science Senior Scholar Award (2020)
 * David Westfall Scholar (2020)
 * Barry Goldwater Scholar (2019)
 * NSF EPSCoR Scholarship (2019)
