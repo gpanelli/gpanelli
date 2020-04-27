@@ -16,6 +16,7 @@ redirect_from:
 Honors and Awards
 ======
 * NSF Graduate Research Fellowship (2020-2025)
+* UC Berkeley Chancelor's Fellowship (*declined*) (2020)
 * UNR College of Science Senior Scholar Award (2020)
 * David Westfall Scholar (2020)
 * Barry Goldwater Scholar (2019)
