@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 <br />
 <h1>Education</h1>
+* Ph.D. student in Physics, *Stanford University*, Who Knows
 * B.S. in Physics, *University of Nevada, Reno*, 2020 
 * B.S. in Pure Mathematics, *University of Nevada, Reno*, 2020 
-* Ph.D. student in Physics, *Stanford University*, Who Knows
 
 Honors and Awards
 ======
