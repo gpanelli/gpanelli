@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guglielmo Panelli"
 title_separator          : "-"
 name                     : &name "Guglielmo Panelli"
-description              : &description "Undergraduate Physics and Mathematics student at the University of Nevada, Reno."
+description              : &description "Graduate Physics student at Stanford University."
 url                      : https://gpanelli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gpanelli/gpanelli.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Guglielmo Panelli"
   avatar           : "profile.png"
-  bio              : "Undergraduate Physics and Mathematics student at the University of Nevada, Reno."
+  bio              : "Graduate Physics student at Stanford University."
   location         : "Reno, NV"
   employer         :
   pubmed           : 
