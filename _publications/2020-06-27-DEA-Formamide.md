@@ -1,12 +1,12 @@
 ---
 title: "Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment"
 collection: publications
-permalink: /publication/2019-07-09-Matched-Filter-Technique
+permalink: /publication/2020-06-27-DEA-Formamide
 excerpt: "<br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right'> This paper outlines the momenutm imagin of dissociative electron attachment to formamide with an emphasis on fragments NH2-, O-, and H-. Production mechanism are addressed and theoretical computations for angular dissociation distributions are provided for NH2-."
 date: 2020-06-27
 venue: 'ArXiV'
 paperurl: ''
-citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment. <i>ArXiV.org.</i> <b>7</b>, Submitted.<a href=""> </a>'
+citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment. <i>ArXiV.org.</i> Submitted.<a href=""> </a>'
 ---
 <div align="justify">
 <p><img src="/images/nh2-6p8.png" width="400" height="500" align="right" hspace="20"/>

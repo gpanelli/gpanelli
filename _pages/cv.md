@@ -110,9 +110,9 @@ Programming
   
 Professional Service
 ======
-* Senior Editor: Nevada State Undergraduate Research Journal (2019-Present)
+* Senior Editor: Nevada State Undergraduate Research Journal (2019-2020)
 
-* Grant Proposal Reviewer: Nevada Undergraduate Research Award (2019-Present)
+* Grant Proposal Reviewer: Nevada Undergraduate Research Award (2019-2020)
 
 
 Personal
