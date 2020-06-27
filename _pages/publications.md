@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <p align="justify">
-My current research is in the field of atomic physics. My current work includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada, Reno) and direct dark matter detection experiments with networks of precision measurement devices - particularly atomic clocks (with Dr. Andrei Derevianko). My previous work includes exoplanet detection with ground-based telescopes and philosphy of quantum mechanics.
+My previous research has been in atomic physics. This includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada, Reno) and direct dark matter detection experiments with networks of precision measurement devices - particularly atomic clocks (with Dr. Andrei Derevianko).
 </p>
 <h2>Publications</h2>
 <hr>
