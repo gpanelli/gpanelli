@@ -1,8 +1,8 @@
 ---
-title: "Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment"
+title: "Investigating resonant low-energy electron attachment to formamide: dynamics of model peptide bond dissociation and other fragmentation channels"
 collection: publications
 permalink: /publication/2020-06-27-DEA-Formamide
-excerpt: "<br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right'> This paper outlines the momenutm imagin of dissociative electron attachment to formamide with an emphasis on fragments NH2-, O-, and H-. Production mechanism are addressed and theoretical computations for angular dissociation distributions are provided for NH2-."
+excerpt: "<br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right'> This paper outlines the momenutm imaging of dissociative electron attachment to formamide with an emphasis on fragments NH2-, O-, and H-. Production mechanism are addressed and theoretical computations for angular dissociation distributions are provided for NH2-."
 date: 2020-06-27
 venue: 'ArXiV'
 paperurl: ''

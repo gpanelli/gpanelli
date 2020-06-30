@@ -10,12 +10,12 @@ My previous research has been in atomic physics. This includes analysis of disso
 <h2>Publications</h2>
 <hr>
 <div align="justify">
-<b>Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment</b>
+<b>Investigating resonant low-energy electron attachment to formamide: dynamics of model peptide bond dissociation and other fragmentation channels</b>
 <br>
 <br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right' hspace='15'> We report experimental results on three-dimensional momentum imaging measurements of anions generated via dissociative electron attachment to gaseous formamide. From the momentum images, we analyze the angular and kinetic energy distributions for NH2-, O−, and H− fragments and discuss the possible electron attachment and dissociation mechanisms for multiple resonances... <a href="https://gpanelli.github.io/publication/2020-06-27-DEA-Formamide">Read More</a>
 <br>
 <br>
-June 27, 2020 - <i>ArXiV</i>
+June 29, 2020 - <i>Submitted to Physical Review Research</i>
 <hr>
 </div>
 <div align="justify">
