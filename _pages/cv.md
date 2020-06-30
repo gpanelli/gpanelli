@@ -33,10 +33,10 @@ Research Experience
 ======
 ## Undergraduate Researcher - *University of Nevada, Reno*
 
-* Advisor: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Present)<br />
+* Advisor: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Aug. 2020)<br />
 Dark matter detection using the network of atomic clocks aboard GPS satellites.
 
-* Advisor: *Joshua Williams, Ph.D.* (Aug. 2017 to Present)<br />
+* Advisor: *Joshua Williams, Ph.D.* (Aug. 2017 to Aug. 2020)<br />
 Photodissociation and dissociative electron attachment experiments.
 
 ## Independent Projects - *University of Nevada, Reno*
