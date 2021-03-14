@@ -31,6 +31,10 @@ Honors and Awards
 
 Research Experience
 ======
+## Graduate Research Fellow - *Stanford University*
+* Advisor: *Mark Kasevich, Ph.D.* (Aug. 2020 - Present)<br />
+Atom intefereometry, spin squeezing with Strontium.
+
 ## Undergraduate Researcher - *University of Nevada, Reno*
 
 * Advisor: *Andrei Derevianko, Ph.D.* (Dec. 2017 to Aug. 2020)<br />
@@ -104,9 +108,6 @@ Teaching
 	</li>
 </ul>
   
-Programming
-======
-* C++, C, Python, R, Mathematica, Maple, HTML
   
 Professional Service
 ======
@@ -117,4 +118,4 @@ Professional Service
 
 Personal
 ======
-Current hobbies include learning jazz trumpet and Spanish.
+Current hobbies include learning Spanish and jazz trumpet.

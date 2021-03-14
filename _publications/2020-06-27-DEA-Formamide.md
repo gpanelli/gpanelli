@@ -6,7 +6,7 @@ excerpt: "<br/><img src='/images/nh2-6p8.png' width='250' height='150' align='ri
 date: 2020-06-27
 venue: 'ArXiV'
 paperurl: ''
-citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Dynamics of model peptide bond dissociation initiated by resonant low-energy electron attachment. <i>ArXiV.org.</i> Submitted.<a href=""> </a>'
+citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Investigating resonant low-energy electron attachment to formamide: Dynamics of model peptide bond dissociation and other fragmentation channels. <i>Phys. Rev. Research</i> <b>3</b>, 013082 (2021).<a href="10.1103/PhysRevResearch.3.013082"> https://link.aps.org/doi/10.1103/PhysRevResearch.3.013082</a>'
 ---
 <div align="justify">
 <p><img src="/images/nh2-6p8.png" width="400" height="500" align="right" hspace="20"/>

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <p align="justify">
-My previous research has been in atomic physics. This includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada, Reno) and direct dark matter detection experiments with networks of precision measurement devices - particularly atomic clocks (with Dr. Andrei Derevianko).
+Current research is toward the realization of atom interferometry enhancement with squeezing. My previous undergradute research includes analysis of dissociative electron attachment experiments (performed by Dr. Dan Slaughter at the Lawrence Berkeley National Laboratory and Dr. Joshua Williams at the University of Nevada, Reno) and direct dark matter detection experiments with networks of precision measurement devices - particularly atomic clocks (with Dr. Andrei Derevianko).
 </p>
 <h2>Publications</h2>
 <hr>
@@ -15,7 +15,7 @@ My previous research has been in atomic physics. This includes analysis of disso
 <br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right' hspace='15'> We report experimental results on three-dimensional momentum imaging measurements of anions generated via dissociative electron attachment to gaseous formamide. From the momentum images, we analyze the angular and kinetic energy distributions for NH2-, O−, and H− fragments and discuss the possible electron attachment and dissociation mechanisms for multiple resonances... <a href="https://gpanelli.github.io/publication/2020-06-27-DEA-Formamide">Read More</a>
 <br>
 <br>
-June 29, 2020 - <i>Submitted to Physical Review Research</i>
+Jan. 27, 2021 - <i>Physical Review Research</i>
 <hr>
 </div>
 <div align="justify">

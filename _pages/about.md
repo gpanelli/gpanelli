@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am a graduate physics student at Stanford University, currently undergoing research group rotations. I received my undergraduate degrees in physics and pure mathematics from the University of Nevada, Reno. My research at the University of Nevada included a dark matter detection experiment using the atomic clock data from GPS satellites (see the <a href="http://www.dereviankogroup.com/">GPS.DM Collaboration</a>) with Dr. Andrei Derevianko as well as dissociative electron attachment and photodissociation molecular dynamics experiments with Dr. Joshua Williams.
+I am a graduate physics student at Stanford University working under Mark Kasevich. We are investigating spin squeezing with Strontium atoms with applications to atom interferometry and metrology at large. I received my undergraduate degrees in physics and pure mathematics from the University of Nevada, Reno working under Andrei Derevianko and Joshua Williams. 
 </p>
 <br>
 
