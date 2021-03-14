@@ -3,10 +3,10 @@ title: "Investigating resonant low-energy electron attachment to formamide: dyna
 collection: publications
 permalink: /publication/2020-06-27-DEA-Formamide
 excerpt: "<br/><img src='/images/nh2-6p8.png' width='250' height='150' align='right'> This paper outlines the momenutm imaging of dissociative electron attachment to formamide with an emphasis on fragments NH2-, O-, and H-. Production mechanism are addressed and theoretical computations for angular dissociation distributions are provided for NH2-."
-date: 2020-06-27
-venue: 'ArXiV'
+date: 2021-01-27
+venue: 'Phys. Rev. Research'
 paperurl: ''
-citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Investigating resonant low-energy electron attachment to formamide: Dynamics of model peptide bond dissociation and other fragmentation channels. <i>Phys. Rev. Research</i> <b>3</b>, 013082 (2021).<a href="10.1103/PhysRevResearch.3.013082"> https://link.aps.org/doi/10.1103/PhysRevResearch.3.013082</a>'
+citation: 'G. Panelli, B. Griffin, K. Swanson, A. Moradmand, T. Weber, T.N. Rescigno, C.W. McCurdy, D.S. Slaughter, & J.B. Williams. Investigating resonant low-energy electron attachment to formamide: Dynamics of model peptide bond dissociation and other fragmentation channels. <i>Phys. Rev. Research</i> <b>3</b>, 013082 (2021).<a href="https://link.aps.org/doi/10.1103/PhysRevResearch.3.013082"> 10.1103/PhysRevResearch.3.013082</a>'
 ---
 <div align="justify">
 <p><img src="/images/nh2-6p8.png" width="400" height="500" align="right" hspace="20"/>
